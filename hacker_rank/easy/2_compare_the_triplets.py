@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/compare-the-triplets/problem?h_r=next-challenge&h_v=zen
+# https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 n = 3
 alice = []
