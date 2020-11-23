@@ -1,4 +1,5 @@
 # https://www.hackerrank.com/challenges/bigger-is-greater/problem
+# https://stackoverflow.com/questions/1622532/algorithm-to-find-next-greater-permutation-of-a-given-string
 
 def swap(word, i, j):
     temp = word[i]
